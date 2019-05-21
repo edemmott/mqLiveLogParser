@@ -10,7 +10,7 @@ outputTable = mqlLogParser('filename.txt');
 
 The output table rows correspond to each time a row was observed in a survey scan. These can be used to investigate and further optimise targeting parameters, topN through cycle, as well as mzDeciviation, Intensity, RT and their correction factors throughout the run.
 
-[example image](/img/example_output_plots.png)
+![example image](/img/example_output_plots.png)
 
 Ed Emmott, May 2019, Northeastern U.
 
