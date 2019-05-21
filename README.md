@@ -1,7 +1,7 @@
 # mqLiveLogParser
 Matlab script for interpreting Maxquant.Live log files generated through use of the targeting app.
 
-**Todo: parser is functional but slow: the final loop for extracting fields to table format should be converted to regexp.**
+**Todo: parser is functional but slow (3-4 minutes): the final loop for extracting fields to table format should be converted to regexp.**
 
 ## How to call:
 ```matlab
